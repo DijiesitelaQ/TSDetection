@@ -30,4 +30,4 @@ $ python train.py --batch-size 8 --img 1280 1280 --data coco.yaml --cfg cfg/yolo
 # References
 Thanks to their great works
 * [yolor](https://github.com/WongKinYiu/yolor)
-
+* [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
