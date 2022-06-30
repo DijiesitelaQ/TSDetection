@@ -1,5 +1,5 @@
 # yolor-a
-This repo is the implementation of ["Traffic sign detection based on the fusion of YOLOR"].   
+This repo is the implementation of ["Traffic sign detection based on the fusion of YOLOR and CBAM"].   
 
 # Install
 ```bash
