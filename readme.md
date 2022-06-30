@@ -1,5 +1,8 @@
 # yolor-a
-This repo is the implementation of ["Traffic sign detection based on the fusion of YOLOR and CBAM"].   
+This repo is the implementation of ["Traffic sign detection based on the fusion of YOLOR and CBAM"].
+This algorithm can make use of the implicit knowledge in a neural network to perform the detection task, 
+and incorporates the CBAM attention mechanism optimization feature so that the traffic sign object detector 
+can concentrate on the feature extraction of the traffic sign existing area.
 
 # Install
 ```bash
